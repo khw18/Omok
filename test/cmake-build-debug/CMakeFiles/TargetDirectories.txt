@@ -1,4 +1,0 @@
-/Users/hyeonu/code/unix/test/cmake-build-debug/CMakeFiles/PentaGo-Client.dir
-/Users/hyeonu/code/unix/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/hyeonu/code/unix/test/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/hyeonu/code/unix/test/cmake-build-debug/CMakeFiles/PentaGo-Server.dir

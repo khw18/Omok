@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/code/Omok/Server.c
+arpa/inet.h
+-
+sys/un.h
+-
+sys/socket.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+signal.h
+-
+netdb.h
+-
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+signal.h
+-
+fcntl.h
+-
+time.h
+-
+stdio_ext.h
+-
+

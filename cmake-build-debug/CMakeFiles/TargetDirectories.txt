@@ -1,4 +1,5 @@
-/mnt/c/code/Omok/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/code/Omok/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/code/Omok/cmake-build-debug/CMakeFiles/Client.dir
-/mnt/c/code/Omok/cmake-build-debug/CMakeFiles/Server.dir
+/Users/hyeonu/code/Omok/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hyeonu/code/Omok/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hyeonu/code/Omok/cmake-build-debug/CMakeFiles/pratice.dir
+/Users/hyeonu/code/Omok/cmake-build-debug/CMakeFiles/Client.dir
+/Users/hyeonu/code/Omok/cmake-build-debug/CMakeFiles/Server.dir

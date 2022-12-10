@@ -1,15 +1,14 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "C"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/c/code/Omok/Server.c" "/mnt/c/code/Omok/cmake-build-debug/CMakeFiles/Server.dir/Server.c.o"
-  )
-set(CMAKE_C_COMPILER_ID "GNU")
 
-# The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/hyeonu/code/Omok/Server.c" "CMakeFiles/Server.dir/Server.c.o" "gcc" "CMakeFiles/Server.dir/Server.c.o.d"
   )
 
 # Targets to which this target links.

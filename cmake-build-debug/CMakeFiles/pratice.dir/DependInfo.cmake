@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/hyeonu/code/Omok/Client.c" "CMakeFiles/Client.dir/Client.c.o" "gcc" "CMakeFiles/Client.dir/Client.c.o.d"
+  "/Users/hyeonu/code/Omok/pratice.c" "CMakeFiles/pratice.dir/pratice.c.o" "gcc" "CMakeFiles/pratice.dir/pratice.c.o.d"
   )
 
 # Targets to which this target links.

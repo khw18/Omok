@@ -6,12 +6,14 @@
 			[
 				{
 					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"projectIndex" : 0,
 					"source" : ".",
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -27,7 +29,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -36,15 +39,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Client::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Client-Debug-81f7f7da92167410a1f3.json",
+					"jsonFile" : "target-Client-Debug-aa868a7bf14fc3c11ca7.json",
 					"name" : "Client",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "Server::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Server-Debug-3f0e965f6d9e7c843c0e.json",
+					"jsonFile" : "target-Server-Debug-b4cd075cebda9a6f6d55.json",
 					"name" : "Server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pratice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pratice-Debug-a600010afcc469af94ca.json",
+					"name" : "pratice",
 					"projectIndex" : 0
 				}
 			]
@@ -53,12 +63,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/mnt/c/code/Omok/cmake-build-debug",
-		"source" : "/mnt/c/code/Omok"
+		"build" : "/Users/hyeonu/code/Omok/cmake-build-debug",
+		"source" : "/Users/hyeonu/code/Omok"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 0
+		"minor" : 3
 	}
 }

@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(Server Server.c)
 add_executable(Client Client.c)
+add_executable(pratice pratice.c)
